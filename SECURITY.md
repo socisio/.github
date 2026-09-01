@@ -1,12 +1,12 @@
 # Security Policy
 
-Security Operation Center Integrated Suites (SOCIS) takes the security of our platforms, our website, and our infrastructure seriously. We appreciate the work of security researchers and the community in helping us keep SOCIS Enterprise, SOCIS Trace, SOCIS Sentinel AI, SOCIS HexCage, and everything at [socis.io](https://socis.io) secure.
+Security Operations Center Integrated Suites (SOCIS) takes the security of our platforms, our website, and our infrastructure seriously. We appreciate the work of security researchers and the community in helping us keep SOCIS Enterprise, SOCIS Trace, SOCIS Sentinel AI, SOCIS HexCage, and everything at [socis.io](https://socis.io) secure.
 
 ## Reporting a Vulnerability
 
 If you believe you've found a security vulnerability in any SOCIS product, repository, or the socis.io website, please report it to us privately and responsibly.
 
-**Email:** [socntact@socis.io](mailto:soctact@socis.io)
+**Email:** [contact@socis.io](mailto:contact@socis.io)
 
 Please **do not** open a public GitHub issue for security vulnerabilities. Public issues are visible to everyone, including potential attackers, before we've had a chance to investigate and remediate.
 
