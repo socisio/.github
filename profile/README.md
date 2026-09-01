@@ -1,4 +1,8 @@
-# <p align="center"><img src="https://raw.githubusercontent.com/socisio/.github/main/assets/socis_logo.png" width="90" alt="SOCIS Emblem" /><br>Security Operation Center Integrated Suites (SOCIS)</p>
+<p align="center">
+  <img src="../assets/socis_logo.png" width="110" alt="SOCIS Master Emblem" />
+</p>
+
+# <p align="center">Security Operation Center Integrated Suites (SOCIS)</p>
 
 <p align="center">
   <strong>Autonomous Cyber Defense • Next-Generation SOC Engineering • Integrated Security Suites</strong>
