@@ -6,7 +6,7 @@ Security Operation Center Integrated Suites (SOCIS) takes the security of our pl
 
 If you believe you've found a security vulnerability in any SOCIS product, repository, or the socis.io website, please report it to us privately and responsibly.
 
-**Email:** [security@socis.io](mailto:security@socis.io)
+**Email:** [socntact@socis.io](mailto:soctact@socis.io)
 
 Please **do not** open a public GitHub issue for security vulnerabilities. Public issues are visible to everyone, including potential attackers, before we've had a chance to investigate and remediate.
 
