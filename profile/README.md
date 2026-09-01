@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/socisio/.github/main/.github/assets/socis_logo.png" alt="SOCIS Logo" width="220">
+  <img src="https://raw.githubusercontent.com/socisio/.github/main/assets/socis_logo.png" alt="SOCIS Logo" width="220">
 
   <h1>Security Operation Center Integrated Suites</h1>
   <p><strong>Cyber Defense • Integrated Security Suites</strong></p>
@@ -23,7 +23,7 @@ We work across the full defensive lifecycle: **prepare → detect → investigat
 
 ## Our Platforms
 
-<img src="https://raw.githubusercontent.com/socisio/.github/main/.github/assets/socis_enterprise_logo.png" width="100%">
+<img src="https://raw.githubusercontent.com/socisio/.github/main/assets/socis_enterprise_logo.png" width="100%">
 
 ### [SOCIS Enterprise](https://socis.io/product-enterprise.html)
 **Unified Detection, Investigation & Response**
@@ -31,7 +31,7 @@ Flagship platform consolidating 5–10 separate security tools into a single sov
 
 <br>
 
-<img src="https://raw.githubusercontent.com/socisio/.github/main/.github/assets/socis_trace_logo.png" width="100%">
+<img src="https://raw.githubusercontent.com/socisio/.github/main/assets/socis_trace_logo.png" width="100%">
 
 ### [SOCIS Trace](https://socis.io/product-trace.html)
 **Self-Hosted OSINT Investigation Workbench**
@@ -39,7 +39,7 @@ Unifies identity, infrastructure, artifact, and financial-crime workflows for se
 
 <br>
 
-<img src="https://raw.githubusercontent.com/socisio/.github/main/.github/assets/socis_sentinel_ai_logo.png" width="100%">
+<img src="https://raw.githubusercontent.com/socisio/.github/main/assets/socis_sentinel_ai_logo.png" width="100%">
 
 ### [SOCIS Sentinel AI](https://socis.io/product-sentinel-ai.html)
 **Autonomous AI Agent Platform for Cyber Defense**
@@ -47,7 +47,7 @@ Sovereign LLM-powered agents that automate alert triage, threat hunting, and mal
 
 <br>
 
-<img src="https://raw.githubusercontent.com/socisio/.github/main/.github/assets/socis_hexcage_logo.png" width="100%">
+<img src="https://raw.githubusercontent.com/socisio/.github/main/assets/socis_hexcage_logo.png" width="100%">
 
 ### [SOCIS HexCage](https://socis.io/product-hexcage.html)
 **Malware Sandbox & Payload Extraction**
