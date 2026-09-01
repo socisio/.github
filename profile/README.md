@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/socisio/.github/main/assets/socis_logo.png" alt="SOCIS Logo" width="220">
+  <img src="https://raw.githubusercontent.com/socisio/.github/main/assets/socis_logo.png" alt="SOCIS Logo" width="500">
 
   <h1>Security Operation Center Integrated Suites</h1>
   <p><strong>Cyber Defense • Integrated Security Suites</strong></p>
